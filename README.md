@@ -13,3 +13,6 @@ sudo apt-get install boot-repair
 这是一个GUI软件，找到它的图标，点击启动，选 recommand repair 等一会儿就好了。
 
 最后，祝 傻逼Windows 和 整个Microsoft 公司冚家富贵。
+
+参考文献：[Ubuntu与Windows10双系统引导问题](https://www.jianshu.com/p/b1255856423b)
+
